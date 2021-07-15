@@ -1,5 +1,5 @@
 /**
- * Lab_05_b Instructions found on moodle
+ * Lab_05_c Instructions found on moodle
  * 
  * Style guidlines URL:-
  * http://www.cs.bilkent.edu.tr/~adayanik/cs101/practicalwork/styleguidelines.htm
@@ -12,9 +12,9 @@
 
 import cs102.IHangmanSetup;
 
-public class BasicSetup implements IHangmanSetup
+public class BasicSetup2 implements IHangmanSetup
 {
-	private static String[] words = { "Broken", "Magical", "I","JRobo is the best", "amazing","cool", "David", "Incredible" };
+	private static String[] words = { "Hello", "Bye", "Demi Demi","Why", "Sad","Sed", "Wow", "Grape" };
 
 
 	/**
